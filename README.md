@@ -6,7 +6,7 @@
 
 主力生产工具 Macbook Pro
 
-![MacBook Pro](/assets/macbook-pro.png)
+<img src="assets/macbook-pro.png" width="688">
 
 ### 开发
 

@@ -29,3 +29,15 @@
 ## Windos 软件
 
 家里的台式机，第二生产力（性能完爆 Mac）
+
+参数:
+
+1. SSD-三星 960 EVO M.2 NVMe 250G
+2. 内存-Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz C16
+3. CPU-i7-8700k
+4. 机箱-NCASE M1
+5. 主板-华硕 Z370-i gaming
+6. 散热器-猫头鹰 D9L
+7. 电源-海盗船 SF600
+8. 显卡-迪兰（Dataland）RX VEGA 56 8GB HBM2 1156-1471/1600MHz 8G/2048-bit HBM2
+9. 风扇-猫头鹰 A9

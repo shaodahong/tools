@@ -10,7 +10,7 @@
 
 ### 开发
 
-编辑器 [VSCode](https://github.com/microsoft/vscode)
+#### 编辑器 [VSCode](https://github.com/microsoft/vscode)
 
 - 主题 [Bear Theme](https://github.com/shaodahong/theme-bear), 自己根据默认的主题改的
 - 插件
@@ -25,6 +25,9 @@
   - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) 同步和备份 VSCode 配置
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) 文件名自动完成插件
   - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) npm 包自动完成插件
+
+#### [Homebrew](https://brew.sh/)
+#### [Oh My Zsh](https://ohmyz.sh/)
 
 ## Windos 软件
 

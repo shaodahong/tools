@@ -28,6 +28,7 @@
 
 #### [Homebrew](https://brew.sh/)
 #### [Oh My Zsh](https://ohmyz.sh/)
+#### [Alfred](https://www.alfredapp.com/)
 
 ## Windos 软件
 

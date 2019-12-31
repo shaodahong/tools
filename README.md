@@ -27,7 +27,31 @@
   - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) npm 包自动完成插件
 
 #### [Homebrew](https://brew.sh/)
+
+- bat 替代 cat
+- exa 替代 ls
+- fd 替代 find
+- go 用 brew 管理 Go
+- httpie 调试接口用的
+- mysql 数据库
+- neovim 替代 vim
+- tree 显示树形目录结构
+- wifi-password 查看 Wi-Fi 密码
+- yarn 用 brew 管理 yarn
+- you-get 和 youtube-dl 解析视频用的
+- z 快速跳转目录
+
+Cask
+
+- font-fira-code 编程字体
+- kap 屏幕录制 GIF
+- keycastr 显示按键
+- iina 视频和音乐播放器
+- karabiner-elements 改建
+- switchhosts 快捷切换 hosts
+
 #### [Oh My Zsh](https://ohmyz.sh/)
+
 #### [Alfred](https://www.alfredapp.com/)
 
 ## Windos 软件

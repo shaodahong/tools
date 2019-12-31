@@ -6,6 +6,10 @@
 
 主力生产工具 Macbook Pro
 
+2019/12/31 更新
+
+<img src="assets/macbook-pro-16.png" width="688">
+
 <img src="assets/macbook-pro.png" width="688">
 
 ### 开发

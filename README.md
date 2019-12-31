@@ -52,7 +52,133 @@ Cask
 
 #### [Oh My Zsh](https://ohmyz.sh/)
 
-#### [Alfred](https://www.alfredapp.com/)
+Mac OS X Catalina 默认也是 zsh，搭配这个使用可以快速配置
+
+#### [Alfred 4](https://www.alfredapp.com/)
+
+Workflows
+
+- caniuse 查看兼容性
+- colors 可以转颜色，很实用
+- Encode/Decode 编解码用
+- GitHub 快速跳转到仓库
+- Google Translate 谷歌翻译
+- IP Address 查看本机 IP 信息
+- Package Managers 支持多种包信息搜索
+
+#### Photoshop
+
+查看设计资源，切图用
+
+#### AppCleaner
+
+卸载软件用的
+
+#### BaiduNetdisk_mac
+
+百度官方网盘客户端
+
+#### Bartender 3
+
+管理 menubar 图标
+
+#### Cornerstone
+
+管理 SVN
+
+#### Downie 3
+
+视频下载
+
+#### Elpass
+
+密码管理，Surge 3 作者新作品
+
+#### Intel Power Gadget
+
+查看电脑功耗和频率
+
+#### IntelliJ IDEA
+
+IDE，重构和写 Go 会用到
+
+#### iTerm
+
+替代默认的 terminal
+
+#### Logi Options
+
+罗技鼠标管理软件，用的 Master 2s
+
+#### Motrix
+
+下载工具，没有想象中的好用
+
+#### NeteaseMusic
+
+网易云音乐
+
+#### Notion
+
+笔记软件，提供丰富的模版
+
+#### One Switch
+
+实用的一些小工具
+
+#### Postman
+
+调试接口软件
+
+#### PxCook
+
+设计资源软件（公司实用）
+
+#### QQ
+
+#### Reeder
+
+RSS 客户端，每天看新闻的来源
+
+#### Sequel Pro
+
+Mysql 客户端
+
+#### ShadowsocksX-NG
+
+小飞机
+
+#### Sketch
+
+切图用，也会设计一点小的图标
+
+#### Surge 3
+
+功能实用的小飞机
+
+#### The Unarchiver
+
+替换系统默认的解压软件
+
+#### Tower
+
+Git 管理软件
+
+#### Twitter
+
+官方出品，BUG 多多
+
+#### VirtualBox
+
+虚拟机管理软件，有时候还是需要用到 win 的
+
+#### WeChat
+
+微信
+
+#### WeChat Work
+
+企业微信
 
 ## Windos 软件
 
